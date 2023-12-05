@@ -2,6 +2,5 @@ Metode pembayaran :
   -Bca 
   -Gopay 
   -Dana
-  -Paypal
   -Bri mobile
   -Ovo
