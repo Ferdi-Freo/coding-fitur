@@ -1,0 +1,4 @@
+Metode pembayaran : 
+  -Bca 
+  -Gopay 
+  -Dana
